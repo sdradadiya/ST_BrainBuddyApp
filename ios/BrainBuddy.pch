@@ -1,0 +1,21 @@
+//
+//  BrainBuddy.pch
+//  BrainBuddyReact
+//
+//  Created on 26/04/18.
+//  Copyright © 2018 Facebook. All rights reserved.
+//
+
+//#ifndef BrainBuddy_pch
+
+#ifdef __OBJC__
+  //#import "AppDelegate.h"
+
+//#define BrainBuddy_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+//#define AppObj (AppDelegate *)[[UIApplication sharedApplication]delegate]
+
+#endif /* BrainBuddy_pch */
